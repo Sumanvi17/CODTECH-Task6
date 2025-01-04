@@ -16,7 +16,6 @@ Overview of the project
 
 Project: Python Program on simple calculator
 
-![WhatsApp Image 2024-12-10 at 21 24 36_32f986cd](https://github.com/user-attachments/assets/bfd46957-38fe-435e-be10-12e091ff5403)
 
 
 Objective
